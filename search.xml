@@ -167,11 +167,9 @@
       </tags>
   </entry>
   <entry>
-    <title>&lt;span style=&#39;color: #88aa95&#39;&gt;公告&lt;/span&gt;</title>
-    <url>/posts/undefined.html</url>
-    <content><![CDATA[<center>
-<span style="color: #88aa95">不知为什么深色模式在 chrome 出现不了，在 edge 上正常</span>
-</center>
+    <title>公告</title>
+    <url>/posts/1.html</url>
+    <content><![CDATA[<center><span style="color: #d3c184">📢 不知为什么 主题深色模式 在 chrome 有问题，在 edge 上正常</span></center>
 ]]></content>
   </entry>
   <entry>
