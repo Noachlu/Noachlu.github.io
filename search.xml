@@ -167,6 +167,14 @@
       </tags>
   </entry>
   <entry>
+    <title>&lt;span style=&#39;color: #88aa95&#39;&gt;公告&lt;/span&gt;</title>
+    <url>/posts/undefined.html</url>
+    <content><![CDATA[<center>
+<span style="color: #88aa95">不知为什么深色模式在 chrome 出现不了，在 edge 上正常</span>
+</center>
+]]></content>
+  </entry>
+  <entry>
     <title>贪吃蛇代码</title>
     <url>/posts/31112.html</url>
     <content><![CDATA[<h1 id="代码如下"><a class="markdownIt-Anchor" href="#代码如下"></a> 代码如下</h1>

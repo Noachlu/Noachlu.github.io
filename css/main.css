@@ -2952,6 +2952,9 @@ header.header {
   --noachlu-font-white-dark: #d6dae0;
   --noachlu-font-black-dark: #282c34;
 }
+.tag-cloud a {
+  color: var(--noachlu-black-dark);
+}
 code,
 kbd,
 figure.highlight,
