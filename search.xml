@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>公告</title>
+    <url>/posts/1.html</url>
+    <content><![CDATA[<center><span style="color: #d3c184">📢 不知为什么 主题深色模式 需要浏览器开启深色模式才能显示正常样子</span></center>
+<center><span style="color: #d3c184">📢 以后会慢慢调整</span></center>
+]]></content>
+  </entry>
+  <entry>
     <title>Markdown语法</title>
     <url>/posts/6cd73623.html</url>
     <content><![CDATA[<h1 id="注意"><a class="markdownIt-Anchor" href="#注意"></a> 注意</h1>
@@ -165,12 +172,6 @@
       <tags>
         <tag>Markdown</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>公告</title>
-    <url>/posts/1.html</url>
-    <content><![CDATA[<center><span style="color: #d3c184">📢 不知为什么 主题深色模式 在 chrome 有问题，在 edge 上正常</span></center>
-]]></content>
   </entry>
   <entry>
     <title>贪吃蛇代码</title>
