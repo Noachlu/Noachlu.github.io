@@ -1,3 +1,41 @@
+@font-face {
+    font-family: 'HarmonyOS Sans SC';
+    src: url('../font/HarmonyOS.TTF') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '苹方';
+    src: url('../font/PingFang.TTF') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+:root {
+    --base-font-family: HarmonyOS Sans SC, 苹方;
+    --post-update-datetime: none;
+    --post-img-align: 0 auto;
+}
+
+.light-mode {
+    --code-background: #8e96aa24;
+    --code-border-color: #8e96aa24;
+    --code-foreground: #3451b2;
+    --mac-toolbar-background-color: #f2f2f2;
+    --text-color-3: #3C3C43;
+}
+
+.dark-mode {
+    --primary-color: #a8b1ff;
+    --code-background: #65758529;
+    --code-border-color: #65758529;
+    --code-foreground: #a8b1ff;
+    --mac-toolbar-background-color: #1f242a;
+    --text-color-3: #FFFFF5DB;
+
+}
+
 .katex-display {
     overflow-x: auto;
     overflow-y: clip;
