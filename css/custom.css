@@ -40,3 +40,11 @@
     overflow-x: auto;
     overflow-y: clip;
 }
+
+.footer .website-info-box .info-item.deploy-info img {
+    background-color: #FFFFF5DB;
+}
+
+:root {
+    --page-content-max-width: 1000px;
+}
